@@ -83,7 +83,7 @@ if result != -1:
   print(f"{target} Found at index {result}")
 else:
   print("Not found")
-  
+   
   
 # binary search
 
